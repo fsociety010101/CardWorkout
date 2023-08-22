@@ -13,6 +13,7 @@
 		8743482F2A94193100D572F7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8743482E2A94193100D572F7 /* Assets.xcassets */; };
 		874348322A94193100D572F7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 874348302A94193100D572F7 /* LaunchScreen.storyboard */; };
 		8743483A2A9419B100D572F7 /* CardSelectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 874348392A9419B100D572F7 /* CardSelectionViewController.swift */; };
+		8743483C2A9428F900D572F7 /* Deck.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8743483B2A9428F900D572F7 /* Deck.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		874348312A94193100D572F7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		874348332A94193100D572F7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		874348392A9419B100D572F7 /* CardSelectionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardSelectionViewController.swift; sourceTree = "<group>"; };
+		8743483B2A9428F900D572F7 /* Deck.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Deck.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				874348272A94192F00D572F7 /* SceneDelegate.swift */,
 				8743482B2A94192F00D572F7 /* Main.storyboard */,
 				874348392A9419B100D572F7 /* CardSelectionViewController.swift */,
+				8743483B2A9428F900D572F7 /* Deck.swift */,
 				8743482E2A94193100D572F7 /* Assets.xcassets */,
 				874348302A94193100D572F7 /* LaunchScreen.storyboard */,
 				874348332A94193100D572F7 /* Info.plist */,
@@ -141,6 +144,7 @@
 				874348262A94192F00D572F7 /* AppDelegate.swift in Sources */,
 				874348282A94192F00D572F7 /* SceneDelegate.swift in Sources */,
 				8743483A2A9419B100D572F7 /* CardSelectionViewController.swift in Sources */,
+				8743483C2A9428F900D572F7 /* Deck.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
